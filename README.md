@@ -1,16 +1,13 @@
-### Hi there 👋
+Soy un desarrollador web apasionado por la tecnología.
 
-<!--
-**Ripper-No-Chart/Ripper-No-Chart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mis aptitudes:
 
-Here are some ideas to get you started:
+| Javascript | Visual Basic | Visual Basic .NET | PHP |
+| Windows | Linux Ubuntu | Kali Linux | Apache |
+| NodeJS | NextJs | Redux | Express JS | Entity Framework | Jquery | ReactJS |
+| Bootstrap | CSS | Less | Sass | Scss | Typescript | Sequelize |
+| MongoDB | Postgres | SQL Server | MySQL | DB Lite |
+| Rest API | Unit Testing | Webpack |
+| Adobe XD | HTML | Adobe Photoshop |
+| Git | Github | Ingles Intermedio |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
