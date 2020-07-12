@@ -1,6 +1,6 @@
-Soy un desarrollador web apasionado por la tecnología.
+Im a Javascript Full Stack Developer
 
-Mis aptitudes:
+Skills:
 
 | Javascript | Visual Basic | Visual Basic .NET | PHP |
 | Windows | Linux Ubuntu | Kali Linux | Apache |
@@ -9,5 +9,4 @@ Mis aptitudes:
 | MongoDB | Postgres | SQL Server | MySQL | DB Lite |
 | Rest API | Unit Testing | Webpack |
 | Adobe XD | HTML | Adobe Photoshop |
-| Git | Github | Ingles Intermedio |
-
+| Git | Github |
