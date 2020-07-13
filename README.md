@@ -1,6 +1,12 @@
+# My Profile
+
 Im a Javascript Full Stack Developer
 
-Skills:
+  - +1200 hours of coding
+  - 2 e-commerce
+  - 5 landing pages
+  
+### Skills
 
 | Javascript | Visual Basic | Visual Basic .NET | PHP |
 | Windows | Linux Ubuntu | Kali Linux | Apache |
@@ -10,3 +16,7 @@ Skills:
 | Rest API | Unit Testing | Webpack |
 | Adobe XD | HTML | Adobe Photoshop |
 | Git | Github |
+
+
+### Repositories
+https://github.com/Ripper-No-Chart?tab=repositories
