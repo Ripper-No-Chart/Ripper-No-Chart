@@ -1,26 +1,19 @@
-# My Profile
+# Who Am I?
 
-Im a Javascript Full Stack Developer
+I am a fullstack web developer with more than +10000 hours of practice in different technologies. I am also interested in learning new frameworks or agile methodologies that can help me solve problems more effectively.
 
-  - +1200 hours of coding
-  - 2 e-commerce
-  - 5 landing pages
-  
-## Skills
+# Skills
 
-Javascript || Visual Basic || Visual Basic .NET ||
-PHP || Windows || Linux Ubuntu ||
-Kali Linux || Apache || NodeJS ||
-NextJs || Redux || Express JS ||
-Entity Framework || Jquery || ReactJS ||
-Bootstrap || CSS3 || Less ||
-Sass || Scss || Typescript ||
-Sequelize || MongoDB || Postgres ||
-SQL Server || MySQL || DB Lite ||
-Rest API || Unit Testing || Webpack ||
-Adobe XD || HTML5 || Adobe Photoshop ||
-Git || Github ||
-
+- Javascript || ReactJS || Angular || Typescript
+- Visual Basic || Visual Basic .NET || Entity Framework
+- PHP || Windows || Linux Ubuntu || Kali Linux
+- NodeJS || NextJs || Redux || Express JS
+- Bootstrap || CSS3 || Less || Sass || Scss
+- Sequelize || MongoDB || Postgres 
+- SQL Server || MySQL || DB Lite ||
+- Rest API || Unit Testing || Webpack || Ionic
+- Adobe XD || Adobe Photoshop ||
+- Git || Github ||
 
 ### Repositories
 https://github.com/Ripper-No-Chart?tab=repositories
