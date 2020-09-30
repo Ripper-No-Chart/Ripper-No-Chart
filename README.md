@@ -13,7 +13,7 @@ I am a fullstack web developer with more than +10000 hours of practice in differ
 - SQL Server || MySQL || DB Lite ||
 - Rest API || Unit Testing || Webpack || Ionic
 - Adobe XD || Adobe Photoshop ||
-- Git || Github ||
+- Git || Github || Ionic || Android || iOS
 
 ### Repositories
 https://github.com/Ripper-No-Chart?tab=repositories
