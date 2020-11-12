@@ -4,14 +4,13 @@ I am a fullstack web developer with more than +10000 hours of practice in differ
 
 # Skills
 
-| Javascript | Visual Basic | Visual Basic .NET | PHP |
-| Windows | Linux Ubuntu | Kali Linux | Apache | Angular | Ionic |
-| NodeJS | NextJs | Redux | Express JS | Entity Framework | Jquery | ReactJS |
-| Bootstrap | CSS | Less | Sass | Scss | Typescript | Sequelize |
-| MongoDB | Postgres | SQL Server | MySQL | DB Lite |
-| Rest API | Unit Testing | Webpack | Sockets |
-| Adobe XD | HTML | Adobe Photoshop | Gimp |
-| Git | Github | Android | iOs | Python |
+Javascript | Typescript | Angular | Ionic | ReactJS | NodeJS | NextJs | Python | PHP | Visual Basic | 
+Redux | Express JS | Jquery | Entity Framework | Sequelize | SocketsIO | Webpack | Rest API | Unit Testing | 
+DB Lite | SQL Server | MySQL | MongoDB | Postgres | 
+CSS | Sass | Less | Scss | Bootstrap | 
+Linux Ubuntu | Windows | Kali Linux | Android | iOs | Apache |
+HTML | Adobe XD | Adobe Photoshop | Gimp | 
+Git | Github |
 
 ### Repositories
 https://github.com/Ripper-No-Chart?tab=repositories
