@@ -4,9 +4,10 @@ I am a fullstack web developer with more than +10000 hours of practice in differ
 
 # Skills
 
-Javascript | Typescript | Angular | Ionic | ReactJS | NodeJS | NextJs | Python | PHP | Visual Basic | 
-Redux | Express JS | Jquery | Entity Framework | Sequelize | SocketsIO | Webpack | Rest API | Unit Testing | 
+Javascript | Typescript | Angular | Ionic | Capacitor | NodeJS | Express JS
 DB Lite | SQL Server | MySQL | MongoDB | Postgres | 
+Python | PHP | Visual Basic | AWS | S3 | SES
+ReactJS | Redux | NextJs | Jquery | Entity Framework | Sequelize | SocketsIO | Webpack | Rest API | Unit Testing | Mongoose |
 CSS | Sass | Less | Scss | Bootstrap | 
 Linux Ubuntu | Windows | Kali Linux | Android | iOs | Apache |
 HTML | Adobe XD | Adobe Photoshop | Gimp | 
