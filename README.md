@@ -4,7 +4,7 @@ I am a fullstack JS developer. I am also interested in learning new frameworks o
 
 # Skills
 
-Programming Languajes: Javascript, Visual Basic .NET, PHP  
+Programming Languages: Javascript, Visual Basic .NET, PHP  
 Stack MERN: MongoDB, Express, ReactJS, Node  
 Stack MEAN: MongoDB, Express, Angular, Node  
 DB: MongoDB, SQL Server, MySQL, Postgres, DB Lite  
