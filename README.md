@@ -4,9 +4,9 @@ I am a fullstack JS developer. I am also interested in learning new frameworks o
 
 # Skills
 
-Programming Languages: Javascript, Typescript
-Stack MERN: MongoDB, Express, ReactJS, Node
-Stack MEAN: MongoDB, Express, Angular, Node
+Programming Languages: Javascript, Typescript  
+Stack MERN: MongoDB, Express, ReactJS, Node  
+Stack MEAN: MongoDB, Express, Angular, Node  
 DB: MongoDB, SQL Server, MySQL, Postgres, DB Lite
 Libraries: Ionic, Capacitor, Babel, ES Lint, Redux, NextJS, Jquery, Sequelize, Webpack, Trpc
 Services: AWS, S3, SES
