@@ -11,7 +11,7 @@ I am a fullstack JS & TS developer. I am also interested in learning new framewo
 **DB**: MongoDB, SQL Server, MySQL, Postgres, DB Lite  
 
 **Libraries**: Ionic, Capacitor, Babel, ES Lint, Redux, NextJS, Jquery, Sequelize, Webpack, Trpc, Routing-Controller,
-google API, azure API.
+Google, Azure.
 
 **Services**: AWS, S3, SES  
 
