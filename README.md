@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Fullstack & PM. I am also interested in learning new frameworks or agile methodologies that can help me solve problems more effectively.<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning cybersecurity
+🔭 I'm a Fullstack & PM. I am also interested in learning new frameworks or agile methodologies that can help me solve problems more effectively.<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning cybersecurity
 
 
 # 💻 Tech Stack:
