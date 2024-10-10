@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a FullStack Developer | PM | CS Analyst. I am also interested in learning new frameworks or agile methodologies that can help me solve problems more effectively.<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning cybersecurity
+🔭 I'm a FullStack Developer | PM | CS Analyst. I am also interested in learning new frameworks or agile methodologies that can help me solve problems more effectively.<br>👯 I’m looking to collaborate on open source projects<br>🌱 I am actively seeking opportunities to collaborate as a Cybersecurity Analyst.
 
 
 # 💻 Tech Stack:
