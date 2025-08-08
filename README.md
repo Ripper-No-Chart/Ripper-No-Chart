@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I'm a Full Stack Developer | PM | CS Analyst. I am also interested in learning new frameworks or agile methodologies that can help me solve problems more effectively.<br>🤝 I’m looking to collaborate on open source projects<br>🌱 I am actively seeking opportunities to collaborate as a Cyber security Analyst.
+🔭 Full Stack Developer (Node.js, Angular, TypeScript) | Project Manager | Cybersecurity Analyst (OWASP, DevSecOps, Pentesting). Focused on building secure, scalable and high-performance solutions.
+🤝 Open to collaborate on open source projects related to web development, API security, and cybersecurity tools.
+🌱 Actively seeking opportunities as a Cybersecurity Analyst, applying skills in vulnerability assessment, incident response, and cloud security.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-ezequiel-herrera/) 
