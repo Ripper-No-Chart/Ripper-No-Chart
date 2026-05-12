@@ -104,6 +104,13 @@ I am currently focused on improving my expertise in:
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ripper-No-Chart&theme=github_dark&hide_border=true&show_icons=true)
+Most of my work is focused on backend architecture, secure API development, Angular applications and production-ready SaaS systems.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ripper-No-Chart&theme=github_dark&hide_border=true&layout=compact)
+You can explore my public repositories to see projects related to:
+
+- TypeScript backend development
+- Angular frontend applications
+- API security
+- Authentication and authorization
+- Multi-tenant systems
+- Automation and tooling
