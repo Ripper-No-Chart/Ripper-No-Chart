@@ -1,6 +1,6 @@
 # Andrés Ezequiel Herrera
 
-**Software Engineer | Full Stack Developer | Backend Developer**
+**Software Engineer | Backend & Full Stack Developer**
 
 I build full stack web applications with a strong focus on backend development, REST APIs, TypeScript, Node.js, NestJS, Angular and production-ready systems.
 
@@ -18,6 +18,7 @@ My work is centered on building maintainable backend services, structured APIs, 
 * Multi-tenant SaaS architecture
 * Clean, maintainable and production-oriented code
 * API security fundamentals and secure coding practices
+* Solidity fundamentals and modular smart contract development
 
 ---
 
@@ -25,39 +26,45 @@ My work is centered on building maintainable backend services, structured APIs, 
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js\&logoColor=green)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![NestJS](https://img.shields.io/badge/NestJS-111111?style=for-the-badge\&logo=nestjs\&logoColor=E0234E)
-![Fastify](https://img.shields.io/badge/Fastify-111111?style=for-the-badge\&logo=fastify\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge\&logo=express\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=green)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![NestJS](https://img.shields.io/badge/NestJS-111111?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Fastify](https://img.shields.io/badge/Fastify-111111?style=for-the-badge&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-111111?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-111111?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge)
 
 ### Frontend
 
-![Angular](https://img.shields.io/badge/Angular-111111?style=for-the-badge\&logo=angular\&logoColor=DD0031)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![RxJS](https://img.shields.io/badge/RxJS-111111?style=for-the-badge\&logo=reactivex\&logoColor=B7178C)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/Sass-111111?style=for-the-badge\&logo=sass\&logoColor=CC6699)
+![Angular](https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=DD0031)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![RxJS](https://img.shields.io/badge/RxJS-111111?style=for-the-badge&logo=reactivex&logoColor=B7178C)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/Sass-111111?style=for-the-badge&logo=sass&logoColor=CC6699)
 
 ### Databases & Infrastructure
 
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=for-the-badge\&logo=cloudflare\&logoColor=F38020)
-![Railway](https://img.shields.io/badge/Railway-111111?style=for-the-badge\&logo=railway\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![Railway](https://img.shields.io/badge/Railway-111111?style=for-the-badge&logo=railway&logoColor=white)
+
+### Blockchain & Smart Contracts
+
+![Solidity](https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-111111?style=for-the-badge&logo=ethereum&logoColor=8C8CFF)
+![Remix IDE](https://img.shields.io/badge/Remix%20IDE-111111?style=for-the-badge)
 
 ### Tools & Security
 
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=FCC624)
-![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![OWASP](https://img.shields.io/badge/OWASP%20Basics-111111?style=for-the-badge)
 ![API Security](https://img.shields.io/badge/API%20Security-111111?style=for-the-badge)
 
@@ -71,6 +78,7 @@ My work is centered on building maintainable backend services, structured APIs, 
 * Multi-tenant SaaS applications
 * Internal tools for automation and operations
 * Backend services with clear contracts and maintainable structure
+* Learning projects with Solidity smart contracts and simulated payment workflows
 
 ---
 
@@ -122,6 +130,25 @@ Main technical areas:
 
 > Private repository. Technical case study available on request.
 
+### PaymentApp — Solidity
+
+[**View repository**](https://github.com/Ripper-No-Chart/payment-app-solidity)
+
+A modular Solidity learning project that simulates a payment system with clients, wallets, balances, top-ups and payments. The current balance system is internal to the smart contract and does not transfer real ETH or tokens.
+
+**Tech stack:** Solidity, Remix IDE.
+
+Main technical areas:
+
+* Contract inheritance and modular separation of responsibilities
+* Client registration and wallet association using `msg.sender`
+* Simulated balances, top-ups and payment history
+* Transaction validation and error handling
+* Events for important operations
+* Testing of the core flow in Remix VM
+
+> Public learning project. Testnet deployment, frontend integration and automated tests are planned next steps.
+
 ---
 
 ## Current Focus
@@ -134,6 +161,7 @@ I am currently focused on strengthening my profile for software engineering role
 * MongoDB and SQL-based systems
 * Multi-tenant SaaS architecture
 * Production-ready application delivery
+* Learning Solidity, smart contract architecture and blockchain development
 
 ---
 
@@ -147,4 +175,4 @@ Some repositories are private because they belong to real products or internal t
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andres%20Herrera-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/andres-ezequiel-herrera/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andres%20Herrera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-ezequiel-herrera/)
